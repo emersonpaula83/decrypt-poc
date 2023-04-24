@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RM.AlteraLS", "..\..\..\..\..\dev\source\tcloud-rm-alterals\RM.AlteraLS.csproj", "{FEF920B3-D1BF-4DB1-A7CB-4BA7F8F0D8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF920B3-D1BF-4DB1-A7CB-4BA7F8F0D8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF920B3-D1BF-4DB1-A7CB-4BA7F8F0D8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF920B3-D1BF-4DB1-A7CB-4BA7F8F0D8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF920B3-D1BF-4DB1-A7CB-4BA7F8F0D8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D24A407-895B-4989-8933-1D0A5B3FFE47}
+	EndGlobalSection
+EndGlobal

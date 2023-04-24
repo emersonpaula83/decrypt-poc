@@ -1,0 +1,6 @@
+C:\Users\emerson.paula\source\repos\DecryptApp\DecryptApp\bin\Debug\DecryptApp.exe
+C:\Users\emerson.paula\source\repos\DecryptApp\DecryptApp\bin\Debug\DecryptApp.pdb
+C:\Users\emerson.paula\source\repos\DecryptApp\DecryptApp\obj\Debug\DecryptApp.csproj.CoreCompileInputs.cache
+C:\Users\emerson.paula\source\repos\DecryptApp\DecryptApp\obj\Debug\DecryptApp.exe
+C:\Users\emerson.paula\source\repos\DecryptApp\DecryptApp\obj\Debug\DecryptApp.pdb
+C:\Users\emerson.paula\source\repos\DecryptApp\DecryptApp\obj\Debug\DecryptApp.csproj.AssemblyReference.cache
